@@ -1,0 +1,5 @@
+mysql:
+    root_password: password
+    user: user
+    password: password
+    database: hscc
