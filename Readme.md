@@ -19,3 +19,4 @@ This is the basebox for the Code Wizards Dev Team.
 - Moses Ngone <mospired>
 - Saket Shirsath <YepItsMrMe>
 - Yash Shirsath <ysthedood>
+- Reece Bunbury<RB2000>
