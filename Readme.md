@@ -17,4 +17,5 @@ This is the basebox for the Code Wizards Dev Team.
 
 ## People
 - Moses Ngone <mospired>
--Saket Shirsath <YepItsMrMe>
+- Saket Shirsath <YepItsMrMe>
+- Yash Shirsath <ysthedood>
