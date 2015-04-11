@@ -20,3 +20,4 @@ This is the basebox for the Code Wizards Dev Team.
 - Saket Shirsath <YepItsMrMe>
 - Yash Shirsath <ysthedood>
 - Reece Bunbury<RB2000>
+-HI <RB2000>
